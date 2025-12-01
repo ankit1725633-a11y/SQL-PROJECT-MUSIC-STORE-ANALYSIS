@@ -1,4 +1,4 @@
-# 🎵 SQL Music Store Analysis
+# 🎵 SQL Music Store Analysis Project
 
 This project takes a hands-on look at a music store database using straightforward SQL queries. The goal is simple: understand how customers behave, what kinds of music sell the most, and how the store performs overall. Instead of focusing on technical complexity, the analysis stays practical and readable—something you might expect from a real analyst working through data step by step.
 
