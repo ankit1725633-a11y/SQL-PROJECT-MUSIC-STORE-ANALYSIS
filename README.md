@@ -1,27 +1,28 @@
 # 🎵 SQL Music Store Analysis
 
-This project provides a concise SQL-based analysis of a music store database to extract insights about customer behavior, sales trends, and catalog performance.
+This project takes a hands-on look at a music store database using straightforward SQL queries. The goal is simple: understand how customers behave, what kinds of music sell the most, and how the store performs overall. Instead of focusing on technical complexity, the analysis stays practical and readable—something you might expect from a real analyst working through data step by step.
 
 ## 📊 Overview
-The database includes tables for customers, invoices, tracks, albums, artists, genres, playlists, and employees. SQL queries are used to explore relationships, identify patterns, and answer key business questions.
+The database includes familiar tables like customers, invoices, tracks, albums, and artists. By connecting these tables, we can uncover patterns that aren’t obvious at first glance.
 
 ## 🔍 Key Insights
-- **Customer Behavior:** Identify top customers, spending patterns, and country-level revenue.
-- **Sales Trends:** Determine best-selling tracks, highest-earning artists, and most profitable genres.
-- **Catalog Patterns:** Explore genre popularity, track duration trends, and playlist usage.
-- **Operational Metrics:** Compare employee sales and regional store performance.
+- **Customer Behavior:** Which customers spend the most? Which countries bring in the highest revenue?
+- **Sales Trends:** What tracks and genres consistently perform well?
+- **Catalog Patterns:** How do genres and tracks vary in popularity, and what does that say about listener preferences?
+- **Operational Metrics:** How do employees and locations compare in terms of sales?
 
-## 🛠️ SQL Techniques Used
-- JOINs for connecting related tables
-- Aggregations (`SUM`, `COUNT`, `AVG`)
-- Filtering (`WHERE`, `HAVING`)
-- Ranking and sorting (`ORDER BY`, subqueries)
+## 🛠️ SQL Techniques
+Used naturally as needed—joins, filters, aggregations, and sorting. Nothing overly engineered or artificially complex.
+
+## 🧰 Tools Used
+- SQL (SQLite/MySQL/PostgreSQL)
+- A standard SQL client (DB Browser, DBeaver, or any equivalent)
+- GitHub for version control and organization
 
 ## 🎯 Purpose
-This repository is ideal for practicing SQL, demonstrating analytical thinking, and showcasing portfolio-ready business intelligence work—all within a clear, real-world dataset.
+The project is designed to feel real and approachable. It’s meant to show how SQL can answer everyday business questions without sounding robotic or overly formal.
 
 ## 📁 Files
-- `/queries/` – Core SQL queries
-- `/results/` – Output summaries and analysis notes
-
-Feel free to use or modify this project for learning or portfolio building!
+- `/queries/` – Core SQL queries used in the analysis
+- `/results/` – Notes and summaries based on the query outputs
+<img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/119b6070-63c1-4a0c-9dbf-38fd2f693c25" />
